@@ -3,7 +3,7 @@ Resource        ../resource/resource_web.robot
 Test Setup      Abrir navegador
 Test Teardown   Fechar navegador
 
-*** Test Case ***
+*** Test Cases ***
 Cenário 01: Pesquisar produto existente
   Dado que eu estou na página home do site
   Quando eu pesquisar pelo produto "Blouse"

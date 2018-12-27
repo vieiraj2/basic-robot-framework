@@ -3,7 +3,7 @@ Resource          ../resource/resource_web.robot
 Test Setup        Abrir navegador
 Test Teardown     Fechar navegador
 
-*** Test Case ***
+*** Test Cases ***
 Caso de Teste 01: Pesquisar produto existente
   Acessar a página home do site
   Digitar o nome do produto "Blouse" no campo de pesquisa
