@@ -1,0 +1,6 @@
+.DS_Store
+**/results
+**/log.html
+**/report.html
+**/output.xml
+.vscode/
